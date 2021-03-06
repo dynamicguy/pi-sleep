@@ -1,4 +1,6 @@
-# Gatsby + Netlify CMS Starter
+# pisleep
+
+[![CLA assistant](https://cla-assistant.io/readme/badge/dynamicguy/pi-sleep)](https://cla-assistant.io/dynamicguy/pi-sleep)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
